@@ -6,7 +6,7 @@
 * [Log - click here to see my progress](log.md)
 * [Resources - click here to see the resources I use for my Learning](resources.md)
 
-### Day 1: Nov 11, 2019
+### Day 1: Oct 12,2021
 **Today's Progress:** I watched Excel 2019 Beginner Tutorial on Learnit Training Youtube Channel.
 
 **Thoughts**: Even though I knew about Excel before, I enjoyed watching the beginner-level tutorial and learned some wonderful tricks and tips, which are very useful.
