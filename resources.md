@@ -6,6 +6,8 @@
 ### Online Courses and Videos
 * [Excel 2019 Beginner Tutorial](https://www.youtube.com/watch?v=6JnEYGxxd8w&list=PLoyECfvEFOjbdwpIOtm_8PFzB_CPAD2_H&index=1)
 *Youtube Video*
+* [Excel 2019 Advanced Tutorial](https://www.youtube.com/watch?v=bezV5U0dlbo)
+*Youtube Video*
 
 ## Contents
 
