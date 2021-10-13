@@ -11,6 +11,10 @@
 
 **Thoughts**: Even though I knew about Excel before, I enjoyed watching the beginner-level tutorial and learned some wonderful tricks and tips, which are very useful.
 
+## Day 2: Oct 13,2021
+**Today's Progress:** I rewatched the Excel 2019 Advanced Tutorial on the Learnit Training youtube channel. 
+
+**Thoughts**: There were so many Excel Features that I had forgotten about since I had not used them recently.
 
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
 
