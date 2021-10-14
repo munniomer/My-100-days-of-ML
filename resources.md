@@ -8,6 +8,8 @@
 *Youtube Video*
 * [Excel 2019 Advanced Tutorial](https://www.youtube.com/watch?v=bezV5U0dlbo)
 *Youtube Video*
+* [Excel 2019 Expert Tutorial](https://www.youtube.com/watch?v=sm9rSD8IXgM)
+*Youtube Video*
 
 ## Contents
 
