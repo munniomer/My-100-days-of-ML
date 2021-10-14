@@ -16,6 +16,10 @@
 
 **Thoughts**: There were so many Excel Features that I had forgotten about since I had not used them recently.
 
+## Day 3: Oct 14,2021
+**Today's Progress:** I watched the Excel 2019 Expert Tutorial on the Learnit Training youtube channel. 
+
+**Thoughts**: Another effective and enjoyable tutorial.
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
 
 Follow me on Medium where I post my blogs [munniomer](https://medium.com/@munniomer)
