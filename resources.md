@@ -11,6 +11,9 @@
 * [Excel 2019 Expert Tutorial](https://www.youtube.com/watch?v=sm9rSD8IXgM)
 *Youtube Video*
 
+ [Excel 2019 Power User Tutorial](https://www.youtube.com/watch?v=wUO6PhnzcBQ&list=PLoyECfvEFOjbdwpIOtm_8PFzB_CPAD2_H&index=54)
+*Youtube Video*
+
 ## Contents
 
 * [Rules](rules.md)
