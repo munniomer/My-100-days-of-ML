@@ -23,6 +23,7 @@
 
 ## Day 4: Oct 15,2021
 **Today's Progress:** I watched the Excel 2019 Power User Tutorial on the Learnit Training youtube channel. 
+
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
 
 Follow me on Medium where I post my blogs [munniomer](https://medium.com/@munniomer)
