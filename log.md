@@ -28,6 +28,7 @@
 **Today's Progress:** I watched the Excel 2019 Pivot Tables Tutorial on the Learnit Training youtube channel. 
 
 **Thoughts**: Learned more about Pivot Tables in Excel.
+
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
 
 Follow me on Medium where I post my blogs [munniomer](https://medium.com/@munniomer)
