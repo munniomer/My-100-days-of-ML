@@ -12,6 +12,8 @@
 *Youtube Video*
 * [Excel 2019 Power User Tutorial](https://www.youtube.com/watch?v=wUO6PhnzcBQ&list=PLoyECfvEFOjbdwpIOtm_8PFzB_CPAD2_H&index=54)
 *Youtube Video*
+* [Excel 2019 Pivot Tables Tutorial](https://www.youtube.com/watch?v=Q1UzraY0yXg&list=PLoyECfvEFOjbdwpIOtm_8PFzB_CPAD2_H&index=51)
+*Youtube Video*
 
 ## Contents
 
