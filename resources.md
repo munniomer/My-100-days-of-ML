@@ -14,6 +14,8 @@
 *Youtube Video*
 * [Excel 2019 Pivot Tables Tutorial](https://www.youtube.com/watch?v=Q1UzraY0yXg&list=PLoyECfvEFOjbdwpIOtm_8PFzB_CPAD2_H&index=51)
 *Youtube Video*
+* [XLOOKUP Excel Tutorial](https://www.youtube.com/watch?v=14XqlLOCojg&list=PLoyECfvEFOjbdwpIOtm_8PFzB_CPAD2_H&index=52)
+*Youtube Video*
 
 ## Contents
 
