@@ -29,6 +29,9 @@
 
 **Thoughts**: Learned more about Pivot Tables in Excel.
 
+# Day 6: Oct 17,2021
+**Today's Progress:** I studied XLOOKUP Excel Tutorial on the Learnit Training youtube channel.
+
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
 
 Follow me on Medium where I post my blogs [munniomer](https://medium.com/@munniomer)
