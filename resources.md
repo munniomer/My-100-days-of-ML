@@ -16,6 +16,9 @@
 *Youtube Video*
 * [XLOOKUP Excel Tutorial](https://www.youtube.com/watch?v=14XqlLOCojg&list=PLoyECfvEFOjbdwpIOtm_8PFzB_CPAD2_H&index=52)
 *Youtube Video*
+* [Excel Today - Power Query Tips & Tricks](https://www.youtube.com/watch?v=Fw7aqeJkztc&list=PLoyECfvEFOjaS0KgzAaWvdsTsuzsbWhyU&index=4)
+*Youtube Video*
+
 
 ## Contents
 
