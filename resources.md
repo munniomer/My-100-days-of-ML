@@ -20,6 +20,16 @@
 *Youtube Video*
 
 
+## 2. Data Analaysis in PowerBI Resources
+
+### Online Courses and Videos
+ [Power BI Beginner Tutorial](https://www.youtube.com/watch?v=i3CSD7bMMbg&list=PLoyECfvEFOjaHaCUMLHed0krBFjavN6YT)
+*Youtube Video*
+
+
+
+
+
 ## Contents
 
 * [Rules](rules.md)
