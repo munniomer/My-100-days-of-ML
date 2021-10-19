@@ -35,6 +35,9 @@
 # Day 7: Oct 18,2021
 **Today's Progress:** I studied a well-explained and enjoyable tutorial of Power Query Tips & Tricks on the Learnit Training youtube channel.
 
+# Day 8: Oct 19,2021
+**Today's Progress:** I watched a brilliant introduction to Power BI on the Learnit Training youtube channel. I learned so much.
+
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
 
 Follow me on Medium where I post my blogs [munniomer](https://medium.com/@munniomer)
